@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CodePulse",
+    "\\CodePulse\\API",
+    "\\CodePulse\\UI"
   ],
-  "SelectedNode": "\\C:\\Users\\deep_\\Desktop\\Projects\\Hacktoberfest-2023",
+  "SelectedNode": "\\CodePulse\\API",
   "PreviewInSolutionExplorer": false
 }
